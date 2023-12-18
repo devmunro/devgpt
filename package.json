@@ -9,10 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "14.0.4",
-    "openai": "^4.23.0",
-    "react": "^18",
-    "react-dom": "^18"
+    "next": "latest",
+    "openai": "latest",
+    "react": "latest",
+    "react-dom": "latest"
   },
   "devDependencies": {
     "@types/node": "^20",
@@ -22,7 +22,7 @@
     "eslint": "^8",
     "eslint-config-next": "14.0.4",
     "postcss": "^8",
-    "tailwindcss": "^3.3.0",
-    "typescript": "^5"
+    "tailwindcss": "latest",
+    "typescript": "latest"
   }
 }
